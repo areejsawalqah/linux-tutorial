@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# linux tutorial 
+ 
+ will fouce instead on the command line 
+ # the command line 
+ : is ataxt based interface to the system 
+  in terminal you have two thing 1- the shell 2-the bash 
+  
